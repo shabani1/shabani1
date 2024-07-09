@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on [Lexy AI](https://getlexy.com/). Previously, I founded and led the AI team at [Replit](https://replit.com/). 
+I'm currently working on [Lexy AI](https://getlexy.com/). Previously, I founded and led the AI team @ [Replit](https://replit.com/). 
 
 Before Replit, I was a quant building investment strategies using Machine Learning and NLP on massive unstructured datasets.
 
